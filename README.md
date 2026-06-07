@@ -1,21 +1,24 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hariraghav%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20%26%20DevOps%20Engineer%20%7C%20Building%20Scalable%20Systems%20in%20Production&descAlignY=62&descSize=16" width="100%"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hariraghav%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20%26%20DevOps%20Engineer%20%7C%20Building%20Scalable%20Systems%20in%20Production&descAlignY=62&descSize=16)
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full+Stack+%7C+DevOps+Engineer;MERN+Stack+%7C+Microservices+%7C+AWS;Building+production-grade+apps+%F0%9F%9A%80;From+architecture+to+deployment+%F0%9F%94%A5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Full+Stack+%7C+DevOps+Engineer;MERN+Stack+%7C+Microservices+%7C+AWS;Building+production-grade+apps+%F0%9F%9A%80;From+architecture+to+deployment+%F0%9F%94%A5" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hariraghav2003&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=hariraghav2003&amp;label=Profile+Views&amp;color=70a5fd&amp;style=flat-square" alt="Profile Views" />
+  &nbsp;
   <a href="https://linkedin.com/in/hariraghav962003">
-    <img src="https://img.shields.io/badge/LinkedIn-hariraghav962003-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-hariraghav962003-0077B5?style=flat-square&amp;logo=linkedin&amp;logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://portfolio-hariraghav.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-70A5FD?style=flat-square&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-70A5FD?style=flat-square&amp;logo=vercel&amp;logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:hariraghava21s@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hariraghava21s@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-hariraghava21s%40gmail.com-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white" />
   </a>
 </div>
 
@@ -87,7 +90,7 @@ const hariraghav = {
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CICD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -108,10 +111,10 @@ const hariraghav = {
 
 <div align="center">
   <a href="https://github.com/hariraghav2003">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hariraghav2003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hariraghav2003&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/hariraghav2003">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariraghav2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariraghav2003&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10" alt="Top Languages"/>
   </a>
 </div>
 
@@ -120,7 +123,7 @@ const hariraghav = {
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hariraghav2003&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=hariraghav2003&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=10" alt="GitHub Streak" />
 </div>
 
 ---
@@ -128,7 +131,7 @@ const hariraghav = {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hariraghav2003&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hariraghav2003&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true" alt="Activity Graph" width="100%"/>
 </div>
 
 ---
@@ -136,7 +139,7 @@ const hariraghav = {
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hariraghav2003&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hariraghav2003&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=4" alt="Trophies"/>
 </div>
 
 ---
@@ -144,7 +147,7 @@ const hariraghav = {
 ## 💼 Work Experience
 
 <details>
-<summary><strong>🏢 Notasco Technologies India Pvt Ltd</strong> — Software Engineer | Full Stack & DevOps Engineer &nbsp;|&nbsp; Sep 2024 – Present &nbsp;|&nbsp; India</summary>
+<summary><strong>🏢 Notasco Technologies India Pvt Ltd</strong> — Software Engineer | Full Stack &amp; DevOps Engineer &nbsp;|&nbsp; Sep 2024 – Present &nbsp;|&nbsp; India</summary>
 
 <br/>
 
@@ -166,10 +169,10 @@ const hariraghav = {
 <div align="center">
 
 | Project | Stack | Highlights |
-|:-------:|:-----:|:----------:|
-| [**WeeFly** – Travel & Connectivity Platform](https://portfolio-hariraghav.vercel.app/) | Node.js · Express.js · MongoDB · React.js · Redis · AWS EC2 · GitHub Actions · NGINX · Stripe | Led cross-functional team; integrated Amadeus, TraveloPro & Stripe; implemented Redis caching for improved scalability; integrated SISP payment gateway using Portuguese-only documentation |
-| [**ServizeHub** – Multi-Service Marketplace](https://portfolio-hariraghav.vercel.app/) | React.js · Node.js · Express.js · MySQL · Sequelize · JWT · Docker · GitHub Actions · NGINX · PM2 | Built scalable multi-role platform (Admin, Vendor, Franchise, Customer); implemented JWT RBAC, booking workflows & CI/CD with automated health checks |
-| [**TMS** – Trainee Management System](https://portfolio-hariraghav.vercel.app/) | React.js · Node.js · Express.js · MongoDB · Mongoose · JWT · GitHub Actions · REST APIs | Full-stack HR platform with real-time dashboards, invoice generation, role-based access control, and automated CI/CD deployment |
+|:--------|:------|:-----------|
+| [**WeeFly** – Travel &amp; Connectivity Platform](https://portfolio-hariraghav.vercel.app/) | Node.js · Express.js · MongoDB · React.js · Redis · AWS EC2 · GitHub Actions · NGINX · Stripe | Led cross-functional team; integrated Amadeus, TraveloPro &amp; Stripe; Redis caching for scalability; SISP payment gateway via Portuguese-only docs |
+| [**ServizeHub** – Multi-Service Marketplace](https://portfolio-hariraghav.vercel.app/) | React.js · Node.js · Express.js · MySQL · Sequelize · JWT · Docker · GitHub Actions · NGINX · PM2 | Scalable multi-role platform (Admin, Vendor, Franchise, Customer); JWT RBAC, booking workflows &amp; CI/CD with automated health checks |
+| [**TMS** – Trainee Management System](https://portfolio-hariraghav.vercel.app/) | React.js · Node.js · Express.js · MongoDB · Mongoose · JWT · GitHub Actions · REST APIs | Full-stack HR platform with real-time dashboards, invoice generation, RBAC, and automated CI/CD |
 
 </div>
 
@@ -179,10 +182,10 @@ const hariraghav = {
 
 <div align="center">
 
-| 🏆 | Achievement | Details |
-|:--:|:-----------:|:-------:|
-| 🎖️ | **Amadeus Live API Production Certification** | Certified (2025) for flight search, booking, pricing & ticketing workflows in production OTA environments |
-| 🌍 | **SISP Payment Gateway Integration** | Independently integrated using Portuguese-only documentation — unblocked delivery and reduced project risk |
+| | Achievement | Details |
+|:--:|:------------|:--------|
+| 🎖️ | **Amadeus Live API Production Certification** | Certified (2025) for flight search, booking, pricing &amp; ticketing in production OTA environments |
+| 🌍 | **SISP Payment Gateway Integration** | Independently integrated using Portuguese-only documentation — unblocked delivery &amp; reduced project risk |
 | 🥇 | **Technical Competition Winner** | Organized and won multiple technical competitions at inter- and intra-college level |
 
 </div>
@@ -195,7 +198,7 @@ const hariraghav = {
 
 | Degree | Institution | Year | Score |
 |:------:|:-----------:|:----:|:-----:|
-| B.E. – Computer Science & Engineering | K.L.N. College of Engineering, Sivagangai | 2020 – 2024 | **GPA: 8.57 / 10** |
+| B.E. – Computer Science &amp; Engineering | K.L.N. College of Engineering, Sivagangai | 2020 – 2024 | **GPA: 8.57 / 10** |
 
 </div>
 
@@ -212,4 +215,4 @@ const hariraghav = {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
