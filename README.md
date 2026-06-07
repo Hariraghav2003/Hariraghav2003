@@ -9,8 +9,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=hariraghav2003&label=Profile+Views&color=70a5fd&style=flat-square)
-&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hariraghav962003-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hariraghav962003)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-70A5FD?style=flat-square&logo=vercel&logoColor=white)](https://hariraghav2003.vercel.app/)
@@ -104,96 +102,7 @@ const hariraghav = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hariraghav2003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10)](https://github.com/hariraghav2003)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hariraghav2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10)](https://github.com/hariraghav2003)
-
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=hariraghav2003&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://github.com/hariraghav2003)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hariraghav2003&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/hariraghav2003)
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=hariraghav2003&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/hariraghav2003)
-
-</div>
-
----
-
-## 💼 Work Experience
-
-<details>
-<summary><strong>🏢 Notasco Technologies India Pvt Ltd</strong> — Software Engineer | Full Stack &amp; DevOps Engineer &nbsp;|&nbsp; Sep 2024 – Present &nbsp;|&nbsp; India</summary>
-
-<br/>
-
-> `Node.js` `Express.js` `React.js` `MongoDB` `MySQL` `Docker` `AWS EC2` `GitHub Actions` `GitLab CI/CD` `NGINX` `SSL/TLS` `Linux`
-
-- Developed and deployed production-grade web applications using the MERN stack across **travel, fintech, and service marketplace** domains.
-- Designed RESTful APIs and scalable database architectures using Node.js, Express.js, MongoDB, and MySQL.
-- Architected **CI/CD pipelines** using GitHub Actions and GitLab CI/CD, automating build, test, and deployment workflows end-to-end.
-- Containerized applications with **Docker** and managed Linux production servers with NGINX, SSL/TLS, and domain routing.
-- **Optimized AWS infrastructure** through server consolidation and resource right-sizing, reducing costs and improving efficiency.
-- Executed server migration, backup, and **disaster recovery** strategies using AWS AMIs with minimized downtime.
-
-</details>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Stack | Highlights |
-|:--------|:------|:-----------|
-| [**WeeFly** – Travel & Connectivity Platform](https://hariraghav2003.vercel.app/) | Node.js · Express.js · MongoDB · React.js · Redis · AWS EC2 · GitHub Actions · NGINX · Stripe | Led cross-functional team; integrated Amadeus, TraveloPro & Stripe; Redis caching for scalability; SISP gateway via Portuguese-only docs |
-| [**ServizeHub** – Multi-Service Marketplace](https://hariraghav2003.vercel.app/) | React.js · Node.js · Express.js · MySQL · Sequelize · JWT · Docker · GitHub Actions · NGINX · PM2 | Multi-role platform (Admin, Vendor, Franchise, Customer); JWT RBAC, booking workflows & CI/CD with automated health checks |
-| [**TMS** – Trainee Management System](https://hariraghav2003.vercel.app/) | React.js · Node.js · Express.js · MongoDB · Mongoose · JWT · GitHub Actions · REST APIs | Full-stack HR platform: real-time dashboards, invoice generation, RBAC, and automated CI/CD |
-
----
-
-## 🏅 Achievements
-
-| | Achievement | Details |
-|:--:|:------------|:--------|
-| 🎖️ | **Amadeus Live API Production Certification** | Certified (2025) for flight search, booking, pricing & ticketing in production OTA environments |
-| 🌍 | **SISP Payment Gateway Integration** | Independently integrated using Portuguese-only documentation — unblocked delivery & reduced project risk |
-| 🥇 | **Technical Competition Winner** | Organized and won multiple technical competitions at inter and intra-college levels |
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Year | Score |
-|:------:|:-----------:|:----:|:-----:|
-| B.E. – Computer Science & Engineering | K.L.N. College of Engineering, Sivagangai | 2020 – 2024 | **GPA: 8.57 / 10** |
-
-</div>
-
----
-
-## 📚 Currently Learning
+##  Currently Learning
 
 ```
 🧱 Kubernetes          → Container Orchestration, Helm Charts, K8s Networking
