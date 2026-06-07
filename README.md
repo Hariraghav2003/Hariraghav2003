@@ -11,7 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hariraghav962003-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hariraghav962003)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-70A5FD?style=flat-square&logo=vercel&logoColor=white)](https://hariraghav2003.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-70A5FD?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-hariraghav.vercel.app)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-hariraghava21s%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hariraghava21s@gmail.com)
 
