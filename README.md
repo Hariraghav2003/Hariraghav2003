@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hariraghav%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full%20Stack%20%26%20DevOps%20Engineer&descAlignY=62&descSize=16" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hariraghav%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full%20Stack%20%26%20DevOps%20Engineer&descAlignY=62&descSize=16)
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Hariraghav+S+%F0%9F%91%8B;Full+Stack+%26+DevOps+Engineer;MERN+Stack+%7C+AWS+%7C+CI%2FCD+Enthusiast;Building+Scalable+Production+Systems" alt="Typing SVG" />
@@ -16,6 +16,7 @@ const hariraghav = {
   stack       : ["Node.js", "React.js", "MongoDB", "MySQL",
                  "Docker", "AWS EC2", "GitHub Actions", "NGINX"],
   currentlyLearning : ["Kubernetes", "System Design", "TypeScript"],
+  portfolio   : "https://portfolio-hariraghav.vercel.app/",
   funFact     : "Integrated a payment gateway using only Portuguese docs 🇵🇹",
   motto       : () => "Ship fast. Break nothing. Learn always.",
 };
@@ -189,6 +190,8 @@ const hariraghav = {
   <a href="https://linkedin.com/in/hariraghav962003"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   &nbsp;
   <a href="https://github.com/hariraghav2003"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://portfolio-hariraghav.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-70A5FD?style=flat-square&logo=vercel&logoColor=white"/></a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
