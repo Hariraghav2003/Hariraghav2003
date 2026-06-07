@@ -1,4 +1,27 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hariraghav%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20%26%20DevOps%20Engineer%20%7C%20Building%20Scalable%20Systems%20in%20Production&descAlignY=62&descSize=16)
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="854" height="180" style="z-index:1;position:relative" viewBox="0 0 854 180">
+        <style>
+      .text {   font-size: 42px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 16px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } 
+      .text, .desc {   animation: twinkling 4s ease-in-out infinite;  } @keyframes twinkling {   40% {     opacity: 1;   }   50% {     opacity: 0.5;   }   60% {     opacity: 1;   }   70% {     opacity: 0.5;   }   80% {     opacity: 1;   }  } 
+    </style>
+        <defs>
+              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#fc00ff"/><stop offset="100%" stop-color="#00dbde"/>
+              </linearGradient>
+            </defs>
+        
+      <g transform="translate(427, 90) scale(1, 1) translate(-427, -90)">
+        <path d="" fill="url(#linear)" opacity="0.4">
+          <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 0L 0 100Q 213.5 140 427 110T 854 135L 854 0 Z;M0 0L 0 125Q 213.5 140 427 120T 854 110L 854 0 Z;M0 0L 0 145Q 213.5 115 427 145T 854 110L 854 0 Z;M0 0L 0 100Q 213.5 140 427 110T 854 135L 854 0 Z">
+          </animate>
+        </path>
+        <path d="" fill="url(#linear)" opacity="0.4">
+          <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L 0 115Q 213.5 160 427 130T 854 140L 854 0 Z;M0 0L 0 130Q 213.5 100 427 100T 854 120L 854 0 Z;M0 0L 0 125Q 213.5 105 427 130T 854 145L 854 0 Z;M0 0L 0 115Q 213.5 160 427 130T 854 140L 854 0 Z">
+          </animate>
+        </path>
+      </g>
+         <text text-anchor="middle" alignment-baseline="middle" x="50%" y="32%" class="text" style="fill:#fff;" stroke="#none" stroke-width="1">Hariraghav S</text>
+        <text text-anchor="middle" alignment-baseline="middle" x="50%" y="62%" class="desc" style="fill:#fff;"></text></svg>
 
 <div align="center">
 
@@ -12,7 +35,7 @@
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hariraghav962003-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hariraghav962003)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-70A5FD?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-hariraghav.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-70A5FD?style=flat-square&logo=vercel&logoColor=white)](https://hariraghav2003.vercel.app/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-hariraghava21s%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hariraghava21s@gmail.com)
 
@@ -164,9 +187,9 @@ const hariraghav = {
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [**WeeFly** – Travel & Connectivity Platform](https://portfolio-hariraghav.vercel.app/) | Node.js · Express.js · MongoDB · React.js · Redis · AWS EC2 · GitHub Actions · NGINX · Stripe | Led cross-functional team; integrated Amadeus, TraveloPro & Stripe; Redis caching for scalability; SISP gateway via Portuguese-only docs |
-| [**ServizeHub** – Multi-Service Marketplace](https://portfolio-hariraghav.vercel.app/) | React.js · Node.js · Express.js · MySQL · Sequelize · JWT · Docker · GitHub Actions · NGINX · PM2 | Multi-role platform (Admin, Vendor, Franchise, Customer); JWT RBAC, booking workflows & CI/CD with automated health checks |
-| [**TMS** – Trainee Management System](https://portfolio-hariraghav.vercel.app/) | React.js · Node.js · Express.js · MongoDB · Mongoose · JWT · GitHub Actions · REST APIs | Full-stack HR platform: real-time dashboards, invoice generation, RBAC, and automated CI/CD |
+| [**WeeFly** – Travel & Connectivity Platform](https://hariraghav2003.vercel.app/) | Node.js · Express.js · MongoDB · React.js · Redis · AWS EC2 · GitHub Actions · NGINX · Stripe | Led cross-functional team; integrated Amadeus, TraveloPro & Stripe; Redis caching for scalability; SISP gateway via Portuguese-only docs |
+| [**ServizeHub** – Multi-Service Marketplace](https://hariraghav2003.vercel.app/) | React.js · Node.js · Express.js · MySQL · Sequelize · JWT · Docker · GitHub Actions · NGINX · PM2 | Multi-role platform (Admin, Vendor, Franchise, Customer); JWT RBAC, booking workflows & CI/CD with automated health checks |
+| [**TMS** – Trainee Management System](https://hariraghav2003.vercel.app/) | React.js · Node.js · Express.js · MongoDB · Mongoose · JWT · GitHub Actions · REST APIs | Full-stack HR platform: real-time dashboards, invoice generation, RBAC, and automated CI/CD |
 
 ---
 
@@ -176,7 +199,7 @@ const hariraghav = {
 |:--:|:------------|:--------|
 | 🎖️ | **Amadeus Live API Production Certification** | Certified (2025) for flight search, booking, pricing & ticketing in production OTA environments |
 | 🌍 | **SISP Payment Gateway Integration** | Independently integrated using Portuguese-only documentation — unblocked delivery & reduced project risk |
-| 🥇 | **Technical Competition Winner** | Organized and won multiple technical competitions at inter- and intra-college level |
+| 🥇 | **Technical Competition Winner** | Organized and won multiple technical competitions at inter and intra-college levels |
 
 ---
 
