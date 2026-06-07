@@ -102,6 +102,14 @@ const hariraghav = {
 
 ---
 
+## 🏅 Achievements
+
+| | Achievement | Details |
+|:--:|:------------|:--------|
+| 🎖️ | **Amadeus Live API Production Certification** | Certified (2025) for flight search, booking, pricing & ticketing in production OTA environments |
+
+---
+
 ##  Currently Learning
 
 ```
