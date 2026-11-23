@@ -134,7 +134,6 @@ const hariraghav = {
 ##  Currently Learning
 
 ```
-🧱 Kubernetes          → Container Orchestration, Helm Charts, K8s Networking
 ☁️  Advanced AWS        → EKS, Lambda, CloudFront, RDS, IAM Best Practices
 🏗️  System Design       → High Availability, Load Balancing, Distributed Systems
 🔐 Security Engineering → OAuth 2.0, Zero Trust, Secrets Management
