@@ -29,36 +29,35 @@ const hariraghav = {
   location: "India 🇮🇳",
   degree: "B.E. Computer Science & Engineering",
   role: "Software Engineer | Full Stack & DevOps",
-
-stack: [
-  "React.js",
-  "Node.js",
-  "Express.js",
-  "MongoDB",
-  "MySQL",
-  "Redis",
-
-  "AWS EC2",
-  "AWS S3",
-  "AWS Lambda",
-  "AWS API Gateway",
-  "AWS Application Load Balancer (ALB)",
-  "AWS CloudWatch",
-  "AWS IAM",
-  "AWS RDS",
-  "AWS Route 53",
-  "AWS ACM",
-  "AWS VPC",
-
-  "Docker",
-  "Kubernetes",
-  "NGINX",
-
-  "GitHub Actions",
-  "GitLab CI/CD",
-
-  "Bot Protection & Blocking"
-],
+  stack: [
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "MySQL",
+    "Redis",
+  
+    "AWS EC2",
+    "AWS S3",
+    "AWS Lambda",
+    "AWS API Gateway",
+    "AWS Application Load Balancer (ALB)",
+    "AWS CloudWatch",
+    "AWS IAM",
+    "AWS RDS",
+    "AWS Route 53",
+    "AWS ACM",
+    "AWS VPC",
+  
+    "Docker",
+    "Kubernetes",
+    "NGINX",
+  
+    "GitHub Actions",
+    "GitLab CI/CD",
+  
+    "Bot Protection & Blocking"
+  ],
 
   currentlyLearning: [
     "System Design at Scale",
